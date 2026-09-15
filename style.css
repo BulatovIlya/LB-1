@@ -1,0 +1,11 @@
+img{
+    width: 349px;
+    height: 349px;
+}
+.forma{
+    margin: 10px;
+}
+textarea{
+    max-width: 300px;
+    max-height: 250px;
+}
